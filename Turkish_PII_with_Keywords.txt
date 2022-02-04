@@ -1,0 +1,35 @@
+Turkish_Pii 
+
+Available on Turkish Government website (Open to Public):
+http://www.gole.gov.tr/geici-ky-koruyuculugunu-kazananlara-ait-isim-listesi
+
+						T.C. Numara
+1	Gursel KARAKUS		Murat		64399362620	
+2	Dincer CELIK		Topcu		66301299208		
+3	Musa KOCAK 		Samhalil	68434228186		
+4	Adem TACYILDIZ		Ilbegi		65179336640	
+5	Ozgr BAKIRCI		Mudur		64213368890		
+6	Mehmet KARA		Yusuf		67972243538		
+7	Erdal BAYKAN		Burhan		62632421578		
+
+						TC Kimlik
+1	Serkan KARABUGA		Himmet		64798349314		
+2	Adem BAKIRCI		Mevlut		64198369332		
+3	Ilker CELIK		Turan		66394296184	
+4	Serkan TACYILDIZ	Binali		62866413714		
+5	Caner CELIK		Mahser		66247301010		
+6	GenCay TACYILDIZ	Binali		62872413586		
+7	Ugur KARAKUS		Murat		64393362848	
+
+
+
+Available on University website (Open to Public):
+https://www.erbakan.edu.tr/storage/images/person/kamu%20hukuku%20yay%C4%B1nlanacak%20yedek%20liste%203.pdf
+
+60124083846 BÜŞRA ÖZERKEKOĞLU 
+28469313196 MERVE AYDIN VURAL 
+60409441682 ÖMER FARUK BOLAT 
+41341836774 ÖMER GÜNAY
+12422681736 MUSTAFA YILMAZ 
+41875664720 SELAHATTİN KARGIN 
+55579243594 AHMET UZUN 
