@@ -1,9 +1,11 @@
-Turkish_Pii 
+Turkish_Pii Ending always even number (64393362848) 
 
 Available on Turkish Government website (Open to Public):
 http://www.gole.gov.tr/geici-ky-koruyuculugunu-kazananlara-ait-isim-listesi
 
-1	Gursel KARAKUS		Murat		64399362620	
+TC Kimlik 
+
+1	Gursel KARAKUS		Murat		64399362620 	
 2	Dincer CELIK		Topcu		66301299208		
 3	Musa KOCAK 		Samhalil	68434228186		
 4	Adem TACYILDIZ		Ilbegi		65179336640	
